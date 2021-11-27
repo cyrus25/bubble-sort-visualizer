@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.bars-container {
+  display: flex;
+  justify-content: center;
+  margin-right: 10px;
+  margin-top: 40px;
+}
+
+.btn-start {
+  background-color: #8049aa;
+  padding: 5px 40px 5px 40px;
+  border-radius: 5px;
+  border: 0px;
+  color: white;
+}
+.btn-restart {
+  background-color: #8049aa;
+  padding: 5px 40px 5px 40px;
+  border-radius: 5px;
+  border: 0px;
+  color: white;
+  margin-left: 20px;
+}
